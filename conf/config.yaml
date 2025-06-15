@@ -38,7 +38,7 @@ use_accelerator: True
 no_eval: False
 server_info: null
 
-n_epochs: 50
+n_epochs: 1
 val_steps: 250  # every 250 * grad_acc_steps steps, i.e., 1000val_steps: 100
 save_steps: False
 
